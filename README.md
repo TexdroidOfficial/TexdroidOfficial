@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is S. Vielma (But I prefer Texdroid or Tex for short)<br>I'm a CS undergrad, Python Developer and wannabe mobile dev and indie gamedev from Caracas, Venezuela 🇻🇪<br><br>- 🧩 Dev on the Spectrum<br>- 📚 I'm currently learning Reflex and Kotlin. C++ coming soon™️<br>- 🎮 In my free time I play videogames, Digimon TCG and make tunes! Tho is not like I have too much time to spare 😅<br><br>- ✍ I speak and write in English and Spanish almost flawlessly (Tho my pronunciation could be better)<br>-⚡ Fun fact: I also am a DJ as well! But haven't gotten chances to play since the scene in my city is dead 😭</p>
+<p align="left">My name is S. Vielma (But I prefer Texdroid or Tex for short)<br>I'm a CS undergrad, Python Developer and wannabe mobile dev and indie gamedev from Caracas, Venezuela 🇻🇪<br><br>- 🧩 Dev on the Spectrum<br>- 📚 I'm currently learning Reflex and Kotlin. C++ coming soon™️<br>- 🎮 In my free time I play videogames, Digimon TCG and make tunes! Tho is not like I have too much time to spare 😅<br>- ✍ I speak and write in English and Spanish almost flawlessly (Tho my pronunciation could be better)<br>-⚡ Fun fact: I also am a DJ as well! But haven't gotten chances to play since the scene in my city is dead 😭</p>
 
 ###
 
@@ -106,24 +106,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   Mis Estadisticas:</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TexdroidOfficial&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TexdroidOfficial&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TexdroidOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=TexdroidOfficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
