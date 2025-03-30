@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is S. Vielma (But I prefer Texdroid or Tex for short)<br>I'm a CS undergrad, Python Developer and wannabe mobile dev and indie gamedev from Caracas, Venezuela 🇻🇪<br><br>- 🧩 Dev on the Spectrum<br>- 📚 I'm currently learning Reflex and Kotlin. C++ coming soon™️<br>- 🎮 In my free time I play videogames, Digimon TCG and make tunes! Tho is not like I have too much time to spare 😅<br>- ⚡ Fun fact: I also am a DJ as well! But haven't gotten chances to play since the scene in my city is dead 😭</p>
+<p align="left">My name is S. Vielma (But I prefer Texdroid or Tex for short)<br>I'm a CS undergrad, Python Developer and wannabe mobile dev and indie gamedev from Caracas, Venezuela 🇻🇪<br><br>- 🧩 Dev on the Spectrum<br>- 📚 I'm currently learning Reflex and Kotlin. C++ coming soon™️<br>- 🎮 In my free time I play videogames, Digimon TCG and make tunes! Tho is not like I have too much time to spare 😅<br>- <br>- ✍ I speak and write in English and Spanish almost flawlessly (Tho my pronunciation could be better)<br>-⚡ Fun fact: I also am a DJ as well! But haven't gotten chances to play since the scene in my city is dead 😭</p>
 
 ###
 
