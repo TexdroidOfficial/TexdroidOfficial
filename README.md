@@ -62,10 +62,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1032526762409734145/1355668310125052014/profile-pic.png?ex=67e9c400&is=67e87280&hm=b06252faff15f42b2de51bd9e087351c7426c79aca13f16c7c6525c54f2509f7&"  />
-</div>
-
 ###
 
 <h1 align="center">Que tal! Me llamo Texdroid👋</h1>
