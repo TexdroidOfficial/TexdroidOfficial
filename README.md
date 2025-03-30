@@ -58,16 +58,8 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TexdroidOfficial&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TexdroidOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=TexdroidOfficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-###
-
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1032526762409734145/1355668310125052014/profile-pic.png?ex=67e9c400&is=67e87280&hm=b06252faff15f42b2de51bd9e087351c7426c79aca13f16c7c6525c54f2509f7&"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TexdroidOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
