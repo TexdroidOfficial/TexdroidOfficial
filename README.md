@@ -78,7 +78,7 @@
 
 ###
 
-<p align="left">Mi nombre es S. Vielma (Pero prefiero que me llamen Texdroid o Tex para abreviar)<br>Soy un estudiante de ingenieria informatica, desarrollador Python y aspirante a desarrollador mobile y desarrollador de juegos indie proveniente de Caracas, Venezuela 🇻🇪<br><br>- 🧩 Desarrollador en el Espectro Autista<br>- 📚 Estoy aprendiendo Reflex y Kotlin. C++ proximamente™️<br>- 🎮 En mi tiempo libre juego videojuegos, Digimon TCG y hago musica! Aunque no es como si tuviera mucho tiempo libre 😅<br>- ✍ I speak and write in English and Spanish almost flawlessly (Tho my pronunciation could be better)<br>- ⚡ Dato Curioso: Tambien soy un DJ! Pero he tenido pocas oportunidades para tocar ya que la escena en mi ciudad esta muerta 😭</p>
+<p align="left">Mi nombre es S. Vielma (Pero prefiero que me llamen Texdroid o Tex para abreviar)<br>Soy un estudiante de ingenieria informatica, desarrollador Python y aspirante a desarrollador mobile y desarrollador de juegos indie proveniente de Caracas, Venezuela 🇻🇪<br><br>- 🧩 Desarrollador en el Espectro Autista<br>- 📚 Estoy aprendiendo Reflex y Kotlin. C++ proximamente™️<br>- 🎮 En mi tiempo libre juego videojuegos, Digimon TCG y hago musica! Aunque no es como si tuviera mucho tiempo libre 😅<br>- ✍ Puedo hablar y escribir en ingles y español casi de manera nativa (Aunque mi pronunciacion podria mejorar)<br>- ⚡ Dato Curioso: Tambien soy un DJ! Pero he tenido pocas oportunidades para tocar ya que la escena en mi ciudad esta muerta 😭</p>
 
 ###
 
