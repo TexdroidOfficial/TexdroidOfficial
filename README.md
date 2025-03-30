@@ -68,7 +68,7 @@
 
 ###
 
-<h1 align="center">Hola! Me llamo Texdroid👋</h1>
+<h1 align="center">Que tal! Me llamo Texdroid👋</h1>
 
 ###
 
